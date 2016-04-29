@@ -17,3 +17,7 @@ Invoices are currently created with a word template & entering data from an exce
 + Select new applicants easally.
 + Manage applicants data faster.
 + Store data from google form.
+
+
+# Strech Goals 
+The ulimate goal would be to have a single system on which the whole process & user journey from application, acceptance, payment and issuing all the documents to the members would be covered by one system.
